@@ -1,1 +1,3 @@
 production.property=ms-production-cost-dev dev env
+
+app.test=Propiedad para los test de postman
