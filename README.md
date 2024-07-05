@@ -7,9 +7,8 @@ Este repositorio contiene los archivos de configuración para el Config Server d
 La estructura del repositorio es la siguiente:
 ```
 /ms-config-server-repository
-├── application.properties (opcional)
-├── application.yml (opcional)
 ├── ms-production-cost-dev.properties
+├── ms-production-cost-prod.properties
 ```
 ## Configuración del archivo ms-production-cost-dev.properties 
 production.property=ms-production-cost-dev dev env
